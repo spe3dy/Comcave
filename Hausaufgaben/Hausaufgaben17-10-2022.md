@@ -1,4 +1,4 @@
-Hausaufgaben vom 17-10-2022
+# Hausaufgaben vom 17-10-2022
 
 
 Geben Sie fuer die Abkuergun DNS den vollstaendigen Begriff an und erkaleren Sie die Hauptaufabe von DNS:
