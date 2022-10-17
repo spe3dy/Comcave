@@ -9,10 +9,14 @@ Geben Sie fuer die Abkürzung DNS den vollständigen Begriff an und erkläeren S
 
 In einem Meeting werden ueber die Kenngroessen Dämpfung sowie Übertragungsgeschwindigkeit gesprochen.
 Erleuteren Sie Daempfung 
-     - Wie sauber die Signale ueber die Leitung gehen. Zudem hängt die Dämpfung ebenfalls vom verwendeten Kabel sowie den Endgeräten ab, welche die Dämpfung ebenfalls       beeinflussen.
+ 
+  - Wie sauber die Signale ueber die Leitung gehen. Zudem hängt die Dämpfung ebenfalls vom verwendeten Kabel sowie den
+    Endgeräten ab, welche die Dämpfung ebenfalls beeinflussen.
+
 Erleutern Sie Uebertragungsgeschwindigkeit
 
-   - Wie schnell was ins  / aus den Lan / Wan geladen werden kann
+ - Wie schnell was ins  / aus den Lan / Wan geladen werden kann
+ - Wie schnell Daten von a nach b verschoben werden koennen
 
 Erlaeutern Sie Reichweite:
 
