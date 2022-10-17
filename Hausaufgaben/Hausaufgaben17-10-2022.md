@@ -54,11 +54,17 @@ Nennen Sie2 Pysikalische Netzwerk Topoligien
 
 Raid 10 ist das Sinnvollste, da kombiniert Sicherheit und gesteigerte Lese-/Schreibgeschwindigkeit – also die Eigenschaften beider RAID-Level.
  
-RAID                                                                         A                              B
+                                                                             A                              B
 RAID-Level:                                                                  10                             5
 Die Anzahl an Festplatten die max. verlorengehen dürfen:                     Je Sub max. 1                  1
 Nettsospeicherkapazität des RAID-Systems in TiB:                             12 TiB                         18 TiB
 Speichereffizienz:                                                           50%                            25%
+
+                        A                  B
+                        10                 5
+                        max 1 pro Sub      1
+                        12 TiB             18 TiB
+                        50%                25%
 
 
 A = (4/2)*6TiB=12TiB
