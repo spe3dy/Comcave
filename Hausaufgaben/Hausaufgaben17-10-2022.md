@@ -39,6 +39,7 @@ Nennen sie Zweit Vorteile von LWL Kabel
  - Leitet keinen Strom.
  - Schneller Geschwindigkeit
  - Fehler unanfaelliger
+ - Hoehere Reichweite
 
 -------------------------------------
 
