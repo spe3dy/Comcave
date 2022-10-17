@@ -5,14 +5,14 @@ Geben Sie fuer die Abkuergun DNS den vollstaendigen Begriff an und erkaleren Sie
 
  - DNS : Dynamic Name System ( Server) 
  - Dient dazu , die Server / Rechner via Namen anzusprechen.
-   Da dieser sont nur via IP angesprochen werden kann.
+   Da dieser sonst nur via IP angesprochen werden kann.
 
-In meine Meeting werden ueber die Kenngroessen Daempung sowie Uebertragunsgeschwindigkeit gesporchen.
+In einem Meeting werden ueber die Kenngroessen Daempung sowie Uebertragunsgeschwindigkeit gesporchen.
 Erleuteren Sie Daempfung 
 Wie sauber die Signale ueber die Leitung gehen. 
 Erleutern Sie Uebertragungsgeschwindigkeit
 
-   - Wie schnell was ins  / aus den Lan / Wan geladen werden kann
+   - Wie schnell was ins  / aus dem Lan / Wan geladen werden kann
 
 Erlaeutern Sie Reichweite:
 
