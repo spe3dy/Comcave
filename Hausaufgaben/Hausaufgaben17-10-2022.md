@@ -64,12 +64,11 @@ Anbieter der Wahl :  SecOnline15 Mbit/s15 Mbit/s239,00 mtl    SDSL3
 
 VPN mit Statischen IPs :
 Fehler sind : 
- - PC x hat ein falsches GW  ( 192.168.1.1 )
- - PC 23 hat ein falsches GW ( 192.168.2.1 ) 
- - Pc 23 hat eine falsche IP ( 192.168.2.23 )
- - PC 22 SubNetMask ist falsch ( 255.255.255.0  ) 
- - PC N hat eine falsche IP ( .255 ist Broadcast IP ) 
- - PC 1 hat eine flache IP ( .0 wird nicht verwendet )
- - PC 2 falsche IP ( .1 ist die IP vom GW )
+ - PC 1 hat eine flache IP (.0 wird nicht verwendet)
+ - PC 2 falsche IP ( .1 ist die IP vom GW)
+ - PC 22 SubNetMask ist falsch (255.255.255.0) 
+ - PC 23 hat ein falsches GW (192.168.2.1) 
+ - Pc 23 hat eine falsche IP (192.168.2.23)
+ - PC N hat eine falsche IP (.255 ist Broadcast IP) 
  - PC x und n haben eine falsche Namens-struktur
-
+ - PC x hat ein falsches GW (192.168.1.1)
