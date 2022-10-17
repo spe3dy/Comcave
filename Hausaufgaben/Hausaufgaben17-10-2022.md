@@ -14,7 +14,7 @@ Erleutern Sie Uebertragungsgeschwindigkeit
 
    - Wie schnell was ins  / aus den Lan / Wan geladen werden kann
 
-Erlaeutern Sie Reichweiter:
+Erlaeutern Sie Reichweite:
 
 - Das ist die angegeben Strecke die ein Kabel genutzt werden kann.Das normale Lan Kabel sollte maximal 100 Meter
   haben, da sonst Verlusste in Kauf genommen werden.
@@ -24,6 +24,7 @@ Welche Auswirkung auf das Netzwerk könnte sich ergeben, wenn zusätzlich ein �
 
  - Wenn es einen zusaetzlichen Switch gibt, der DHCP – Server spielt, kann es dazu kommen, dass das Routing im 
    Netzwerk nicht mehr stimmt. Sprich der Router vergibt ggf eine IP die nicht zu dem Netzwerk gehoert was geroutet werden soll.
+   Da ggf kein GW gesetzt ist / wird
 
 Welche Maßnahmen sind/wären zu treffen? 
 
@@ -54,7 +55,8 @@ Raid 10 ist das Sinnvollste, da kombiniert Sicherheit und gesteigerte Lese-/Schr
 Es gibt 3 Internet Angebote dazu, Wählen Sie entsprechen Ihrer Berechnung 
 
  - Durch den Upload, werden schon ca 12,5 Mbit/s verbraucht. Um nen Puffer zu haben, sollten wir die 15 Mbit/s nehmen.
-   SecOnline15 Mbit/s15 Mbit/s239,00 mtl    SDSL3
+
+Anbieter der Wahl :  SecOnline15 Mbit/s15 Mbit/s239,00 mtl    SDSL3
 
 100.000 Tebibyte
 
