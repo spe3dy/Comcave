@@ -54,3 +54,4 @@ siehe Bild: UML-Fingerabdruecke.jpg
 - Geben Sie an, in welchen Klassen die Methode berechneZeichenkette() ueberschrieben werden muss.
 
 
+Test
