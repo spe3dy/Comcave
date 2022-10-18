@@ -1,0 +1,1 @@
+# Hausaufgaben 18-10-2022
