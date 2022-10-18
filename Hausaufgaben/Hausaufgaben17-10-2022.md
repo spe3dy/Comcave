@@ -63,7 +63,7 @@ Raid 10 ist das Sinnvollste, da kombiniert Sicherheit und gesteigerte Lese-/Schr
     RAID-Level:                                                           10                             5
     Die Anzahl an Festplatten die max. verlorengehen dürfen:              Je Sub max. 1                  1
     Nettospeicherkapazität des RAID-Systems in TiB:                       12 TiB                         18 TiB
-    Speichereffizienz:                                                    50%                           25%
+    Speichereffizienz:                                                    50%                            75%
 
                      
 
@@ -88,7 +88,7 @@ Insgesamt ergeben sich daraus: 160 Scans + 640 Scans = 800 Scans pro Tag.
 
 37.209.375 * 24 Bit = 893.025.000 Bit
 893.025.000 Bit / 8 = 111.628.125 Byte
-111.628.125 Byte / 1000 = 111.629 KiloByte
+111.628.125 Byte / 1000 = 111.629 KiloByte   (durch 1024 teilen, nicht durch 1000, ist zwar beides richtig, aber der Endwert würde zuweit abweichen)
 109.012 KibiByte / 1000 = 112 MegaByte (Rundungsfehler nicht berücksichtigt)
 
 1 Bild hat die Größe von 112 MegaByte.
