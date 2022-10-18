@@ -8,18 +8,19 @@ Beschreiben Sie jeweils Kurz
 
 aa: Assoziation
 
-Eine Assoziation beschreibt eine Beziehung zwischen zwei oder mehr Classifiern, im häufigsten Fall eine Verbindung zwischen genau zwei Klassen. Assoziationen definieren dabei eine Beziehung auf Typebene. Auf Instanzebene nennen sich die konkreten Ausprägungen einer Assoziation
-
+ - ist die Beziehung zwischen den definierten Klassen.
 
 ab: Vererbung
 
-Die Vererbung ist eines der grundlegenden Konzepte der Objektorientierung und hat große Bedeutung in der Softwareentwicklung. Die Vererbung dient dazu, aufbauend auf existierenden Klassen neue zu schaffen, wobei die Beziehung zwischen ursprünglicher und neuer Klasse dauerhaft ist.
+ - z.b. Autos, es gibt Verschiedene Arten von Autos z.b. Cabrio, Limusine, Sportwagen
+  Die Vererbung sind dann, z.b. Bremsen, Reifen, Lenkrad.
+  alles faellt unter die Kategorie Autos allerdings hat jedes seine eigene Eigenschaft.
 
 ac: Komposition
 
-Eine Komposition in der Unified Modeling Language (UML) ist ein Sonderfall der Assoziation, die eine Beziehung zwischen einem Ganzen und seinen vom Ganzen existenzabhängigen Teilen beschreibt. Einfach ausgedrückt: Bei einer Komposition kann ein Teil nie größer als das Ganze sein.
+- stellt die Beziehung zwischen den beiden her.
 
-b: Fuer eine Person sollen von der Linken und rechten Hand jewals folgende Abdruecke gespeichert werden:
+B: Fuer eine Person sollen von der Linken und rechten Hand jewals folgende Abdruecke gespeichert werden:
 
 F1 bis F5: Abdruecke der fuenf Finger
 H1 und H2: Abdruecke der Handflaechenbereiche
@@ -54,3 +55,4 @@ siehe Bild: UML-Fingerabdruecke.jpg
 - Geben Sie an, in welchen Klassen die Methode berechneZeichenkette() ueberschrieben werden muss.
 
 
+Nicht verstanden daher Rueckfrage halten.
