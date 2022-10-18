@@ -31,7 +31,7 @@ Welche Auswirkung auf das Netzwerk könnte sich ergeben, wenn zusätzlich ein �
  - Wenn es einen zusaetzlichen Switch gibt, der DHCP – Server spielt, kann es dazu kommen, dass das Routing im 
    Netzwerk nicht mehr stimmt. Sprich der Router vergibt ggf eine IP die nicht zu dem Netzwerk gehoert was geroutet werden soll.
    Da ggf kein GW gesetzt ist / wird
-
+ - IP Adressen Konflikte (IPs werden doppelt vergeben)
 Welche Maßnahmen sind/wären zu treffen? 
 
  - i.d.R gibt es bei Mananged Switchen die Option zu sagen, dass nur der einer Port fuer DHCP – Server sind. 
